@@ -3,7 +3,7 @@
 Guide:
 1.Clone this repo
 ```
-git clone https://github.com/rjaswal1634/EfficientNetwithSeperableConvolution.git
+git clone https://github.com/nta58/EfficientNetwithSeperableConvolution.git
 ```
 
 2. If you want to train the model with your modification visit the bare_model and Modified Model files.
